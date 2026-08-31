@@ -1,68 +1,47 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a1a&height=180&section=header&text=Hey,%20I'm%20Santy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a1a&height=180&section=header&text=Hey,%20I'm%20Santiago&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=460&lines=Software+Developer+%7C+Colombia;C%23+%7C+C%2B%2B+%7C+React+%7C+PostgreSQL;Turning+ideas+into+working+products" alt="Typing SVG" />
-</a>
+<a href="https://www.linkedin.com/in/santiago-barrera-arias-10a513424/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:srsantibarrera@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://santiago.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/SayGuapix"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
+## Sobre mi 😃
+<hr/>
 
-### About me
+🎓 &nbsp;**TECNÓLOGO EN DESARROLLO DE SOFTWARE** (Institución Universitaria Pascual Bravo)
 
-Soy **Santiago Barrera Arias**, Tecnólogo en Desarrollo de Software (Institución Universitaria Pascual Bravo). Me caracterizo por el aprendizaje rápido, la atención al detalle y usar herramientas de IA generativa para desarrollar con más agilidad.
+💻 &nbsp;Pasante en **Global Origin**: diseño UX/UI, desarrollo web e implementación de funcionalidades, documentación técnica y acompañamiento a otros pasantes
 
-- 💼 Pasante en **Global Origin** — UX/UI, desarrollo web y documentación técnica
-- 🎓 Certificado en **Desarrollo con AI Agents** — BIG School, 2026
-- 🛠️ Construyendo sistemas completos: dashboards, inventario, ventas y reportes
-- 🌱 Buscando entornos que valoren la proactividad y la mejora continua
+🤖 &nbsp;Uso herramientas de **IA generativa** como apoyo para desarrollar con más agilidad — certificado en Desarrollo con AI Agents (BIG School, 2026)
 
-</td>
-<td width="40%" valign="top">
+📋 &nbsp;Roles en el ámbito: desarrollador... apoyo en documentación... UX/UI... y en un futuro quién sabe 😊
 
-### Quick links
+📌 &nbsp;Me caracterizo por el aprendizaje rápido, la atención al detalle y la proactividad
 
-<p>
-<a href="https://santiago.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:srsantibarrera@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-📍 Medellín, Colombia
-*(agrega tu LinkedIn cuando quieras)*
-
-</td>
-</tr>
-</table>
+📧 &nbsp;Contacto: **srsantibarrera@gmail.com**
 
 <br/>
 
-### Tech stack
+## Tecnologías conocidas 🛠️
+<hr/>
 
 <p align="left">
-<img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=cs,cpp,java,python,js,react,html,css&theme=dark" />
+</p>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres,firebase,figma,git,github,vscode&theme=dark" />
 </p>
 
 <br/>
 
-### GitHub stats
+## GitHub stats 📊
+<hr/>
 
 <div align="center">
 
@@ -75,7 +54,8 @@ Soy **Santiago Barrera Arias**, Tecnólogo en Desarrollo de Software (Instituci�
 
 <br/>
 
-### Featured projects
+## Proyectos destacados 🚀
+<hr/>
 
 <div align="center">
 
