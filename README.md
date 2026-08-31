@@ -57,26 +57,31 @@
 ## Proyectos destacados 🚀
 <hr/>
 
-<div align="center">
+<p align="center"><sub>Portafolio completo en <a href="https://santiago.vercel.app/projects">santiago.vercel.app/projects</a></sub></p>
 
-<a href="https://github.com/SayGuapix/storebright-ops">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SayGuapix&repo=storebright-ops&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF"/>
-</a>
-<a href="https://github.com/SayGuapix/cabitemplex-launchpad">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SayGuapix&repo=cabitemplex-launchpad&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF"/>
-</a>
-<a href="https://github.com/SayGuapix/Amethyst">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SayGuapix&repo=Amethyst&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF"/>
-</a>
-<a href="https://github.com/SayGuapix/Portfolio-SBA">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SayGuapix&repo=Portfolio-SBA&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF"/>
-</a>
-
-</div>
-
-<p align="center">
-<sub>💡 StoreBright: sistema de tienda completo con dashboard, inventario, ventas y reportes · Cabitemplex: landing page para empresa de remodelaciones · Amethyst: optimizador de almacenamiento del sistema · Portfolio: mi sitio personal en <a href="https://santiago.vercel.app">santiago.vercel.app</a></sub>
-</p>
+<table width="100%">
+<tr>
+<td width="20%"><a href="https://santiago.vercel.app/projects"><img src="assets/projects/averag3.png" width="100%"/></a></td>
+<td width="20%"><a href="https://santiago.vercel.app/projects"><img src="assets/projects/smartparking.png" width="100%"/></a></td>
+<td width="20%"><a href="https://santiago.vercel.app/projects"><img src="assets/projects/docmanual.png" width="100%"/></a></td>
+<td width="20%"><a href="https://santiago.vercel.app/projects"><img src="assets/projects/fluffynails.png" width="100%"/></a></td>
+<td width="20%"><a href="https://santiago.vercel.app/projects"><img src="assets/projects/lovable.png" width="100%"/></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/SayGuapix/cabitemplex-launchpad"><img src="assets/projects/cabitemplex.png" width="100%"/></a></td>
+<td><a href="https://santiago.vercel.app/projects"><img src="assets/projects/roadtoperfection.png" width="100%"/></a></td>
+<td><a href="https://github.com/SayGuapix/storebright-ops"><img src="assets/projects/storebright.png" width="100%"/></a></td>
+<td><a href="https://github.com/SayGuapix/yodarby"><img src="assets/projects/yodarby.png" width="100%"/></a></td>
+<td><a href="https://santiago.vercel.app/projects"><img src="assets/projects/websecuritytester.png" width="100%"/></a></td>
+</tr>
+<tr>
+<td><a href="https://santiago.vercel.app/projects"><img src="assets/projects/proyectosonrisa.png" width="100%"/></a></td>
+<td><a href="https://github.com/SayGuapix/GitGlow"><img src="assets/projects/gitglow.png" width="100%"/></a></td>
+<td><a href="https://github.com/SayGuapix/Amethyst"><img src="assets/projects/amethyst.png" width="100%"/></a></td>
+<td><a href="https://github.com/SayGuapix/EmeraldCHAT"><img src="assets/projects/emeraldchat.png" width="100%"/></a></td>
+<td></td>
+</tr>
+</table>
 
 <br/>
 
