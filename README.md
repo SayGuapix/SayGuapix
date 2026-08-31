@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a1a&height=180&section=header&text=Hey,%20I'm%20Santy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=460&lines=Backend+%2F+Systems+Developer;C%23+%7C+C%2B%2B+%7C+TypeScript;Building+clean%2C+functional+software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=460&lines=Software+Developer+%7C+Colombia;C%23+%7C+C%2B%2B+%7C+React+%7C+PostgreSQL;Turning+ideas+into+working+products" alt="Typing SVG" />
 </a>
 
 </div>
@@ -16,12 +16,12 @@
 
 ### About me
 
-I'm **Santy**, a developer focused on building practical tools — from Git utilities and PC optimizers to chat systems and console applications. I like clean architecture and solving real problems with simple, solid code.
+Soy **Santiago Barrera Arias**, Tecnólogo en Desarrollo de Software (Institución Universitaria Pascual Bravo). Me caracterizo por el aprendizaje rápido, la atención al detalle y usar herramientas de IA generativa para desarrollar con más agilidad.
 
-- 🔭 Currently building **GitGlow**, a Git companion tool
-- 🌱 Exploring **TypeScript** and web-based tooling
-- 🧠 Comfortable across desktop, console, and connected (MQTT / Firebase) apps
-- ⚡ Fun fact: I turn side projects into full utilities
+- 💼 Pasante en **Global Origin** — UX/UI, desarrollo web y documentación técnica
+- 🎓 Certificado en **Desarrollo con AI Agents** — BIG School, 2026
+- 🛠️ Construyendo sistemas completos: dashboards, inventario, ventas y reportes
+- 🌱 Buscando entornos que valoren la proactividad y la mejora continua
 
 </td>
 <td width="40%" valign="top">
@@ -29,12 +29,13 @@ I'm **Santy**, a developer focused on building practical tools — from Git util
 ### Quick links
 
 <p>
+<a href="https://santiago.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:srsantibarrera@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="mailto:tucorreo@ejemplo.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-*(reemplaza los `#` con tus enlaces reales)*
+📍 Medellín, Colombia
+*(agrega tu LinkedIn cuando quieras)*
 
 </td>
 </tr>
@@ -47,9 +48,15 @@ I'm **Santy**, a developer focused on building practical tools — from Git util
 <p align="left">
 <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
@@ -72,20 +79,24 @@ I'm **Santy**, a developer focused on building practical tools — from Git util
 
 <div align="center">
 
-<a href="https://github.com/SayGuapix/GitGlow">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SayGuapix&repo=GitGlow&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF"/>
+<a href="https://github.com/SayGuapix/storebright-ops">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SayGuapix&repo=storebright-ops&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF"/>
+</a>
+<a href="https://github.com/SayGuapix/cabitemplex-launchpad">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SayGuapix&repo=cabitemplex-launchpad&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF"/>
 </a>
 <a href="https://github.com/SayGuapix/Amethyst">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=SayGuapix&repo=Amethyst&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF"/>
 </a>
-<a href="https://github.com/SayGuapix/EmeraldCHAT">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SayGuapix&repo=EmeraldCHAT&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF"/>
-</a>
-<a href="https://github.com/SayGuapix/Orion">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SayGuapix&repo=Orion&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF"/>
+<a href="https://github.com/SayGuapix/Portfolio-SBA">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SayGuapix&repo=Portfolio-SBA&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF"/>
 </a>
 
 </div>
+
+<p align="center">
+<sub>💡 StoreBright: sistema de tienda completo con dashboard, inventario, ventas y reportes · Cabitemplex: landing page para empresa de remodelaciones · Amethyst: optimizador de almacenamiento del sistema · Portfolio: mi sitio personal en <a href="https://santiago.vercel.app">santiago.vercel.app</a></sub>
+</p>
 
 <br/>
 
