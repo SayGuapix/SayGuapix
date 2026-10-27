@@ -11,20 +11,15 @@
 
 <br/>
 
-## Sobre mi 😃
-<hr/>
+<div align="center">
 
-🎓 &nbsp;**TECNÓLOGO EN DESARROLLO DE SOFTWARE** (Institución Universitaria Pascual Bravo)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SayGuapix/SayGuapix/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SayGuapix/SayGuapix/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribuciones de SayGuapix" src="https://raw.githubusercontent.com/SayGuapix/SayGuapix/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 
-💻 &nbsp;Pasante en **Global Origin**: diseño UX/UI, desarrollo web e implementación de funcionalidades, documentación técnica y acompañamiento a otros pasantes
-
-🤖 &nbsp;Uso herramientas de **IA generativa** como apoyo para desarrollar con más agilidad — certificado en Desarrollo con AI Agents (BIG School, 2026)
-
-📋 &nbsp;Roles en el ámbito: desarrollador... apoyo en documentación... UX/UI... y en un futuro quién sabe 😊
-
-📌 &nbsp;Me caracterizo por el aprendizaje rápido, la atención al detalle y la proactividad
-
-📧 &nbsp;Contacto: **srsantibarrera@gmail.com**
+</div>
 
 <br/>
 
