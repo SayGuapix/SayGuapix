@@ -25,6 +25,8 @@ jobs:
 
       - name: Quitar la barra de progreso de abajo
         run: |
+          # la action de la serpiente crea los archivos como root; los hacemos editables
+          sudo chown -R "$(id -u):$(id -g)" dist
           python3 - <<'EOF'
           import re, glob
           for f in glob.glob("dist/*.svg"):
