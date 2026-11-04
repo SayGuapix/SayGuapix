@@ -23,6 +23,23 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ffffff&color_dots=#161b22,#2e2e2e,#5c5c5c,#9e9e9e,#ffffff
 
+      - name: Quitar la barra de progreso de abajo
+        run: |
+          python3 - <<'EOF'
+          import re, glob
+          for f in glob.glob("dist/*.svg"):
+              s = open(f).read()
+              # borra los bloques de la barra (rect con clase "u")
+              s = re.sub(r'<rect class="u [^"]*"[^>]*/>', '', s)
+              # recorta el espacio vacío que dejaba la barra
+              def recortar(m):
+                  x, y, w, h = map(float, m.group(1, 2, 3, 4))
+                  h -= 2 * -x
+                  return f'viewBox="{x:g} {y:g} {w:g} {h:g}" width="{w:g}" height="{h:g}"'
+              s = re.sub(r'viewBox="(\S+) (\S+) (\S+) (\S+)" width="\S+" height="\S+"', recortar, s, count=1)
+              open(f, "w").write(s)
+          EOF
+
       - name: Publicar en la rama output
         uses: crazy-max/ghaction-github-pages@v4
         with:
