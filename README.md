@@ -22,8 +22,8 @@
 
 <br/>
 
-## Tech Stack
-<hr/>
+### Tech Stack
+<img src="assets/divider.svg" width="100%" />
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite,html,css&theme=dark" />
@@ -37,8 +37,8 @@
 
 <br/>
 
-## GitHub stats
-<hr/>
+### GitHub stats
+<img src="assets/divider.svg" width="100%" />
 
 <div align="center">
 
@@ -56,8 +56,8 @@
 
 <br/>
 
-## Featured Projects
-<hr/>
+### Featured Projects
+<img src="assets/divider.svg" width="100%" />
 
 <p align="center"><sub>Full portfolio at <a href="https://santiago.vercel.app/projects">santiago.vercel.app/projects</a></sub></p>
 
@@ -101,6 +101,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=SayGuapix&label=Profile%20views&color=ffffff&style=flat" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5a6370,100:30363d&height=100&section=footer" width="100%"/>
 
 </div>
