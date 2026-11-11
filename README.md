@@ -15,14 +15,14 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SayGuapix/SayGuapix/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SayGuapix/SayGuapix/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribuciones de SayGuapix" src="https://raw.githubusercontent.com/SayGuapix/SayGuapix/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img alt="SayGuapix contribution graph" src="https://raw.githubusercontent.com/SayGuapix/SayGuapix/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
 
 <br/>
 
-## Tecnologías conocidas 
+## Tech Stack 🛠️
 <hr/>
 
 <p align="left">
@@ -37,7 +37,7 @@
 
 <br/>
 
-## GitHub stats 
+## GitHub stats 📊
 <hr/>
 
 <div align="center">
@@ -48,10 +48,10 @@
 
 <br/>
 
-## Proyectos destacados 
+## Featured Projects 🚀
 <hr/>
 
-<p align="center"><sub>Portafolio completo en <a href="https://santiago.vercel.app/projects">santiago.vercel.app/projects</a></sub></p>
+<p align="center"><sub>Full portfolio at <a href="https://santiago.vercel.app/projects">santiago.vercel.app/projects</a></sub></p>
 
 <table width="100%">
 <colgroup>
