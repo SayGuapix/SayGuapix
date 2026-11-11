@@ -22,7 +22,7 @@
 
 <br/>
 
-## Tech Stack 
+## Tech Stack
 <hr/>
 
 <p align="left">
@@ -37,18 +37,26 @@
 
 <br/>
 
-## GitHub stats 
+## GitHub stats
 <hr/>
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SayGuapix&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=6E7681" width="70%"/>
 
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SayGuapix/SayGuapix/output/activity-bars-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SayGuapix/SayGuapix/output/activity-bars.svg" />
+  <img alt="Contributions per month and by day of the week" src="https://raw.githubusercontent.com/SayGuapix/SayGuapix/output/activity-bars-dark.svg" width="70%" />
+</picture>
+
 </div>
 
 <br/>
 
-## Featured Projects 
+## Featured Projects
 <hr/>
 
 <p align="center"><sub>Full portfolio at <a href="https://santiago.vercel.app/projects">santiago.vercel.app/projects</a></sub></p>
