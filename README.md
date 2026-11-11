@@ -27,10 +27,13 @@
 <hr/>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cs,cpp,java,python,js,react,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite,html,css&theme=dark" />
 </p>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=postgres,firebase,figma,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,fastapi,mongodb,mysql,postgres,docker,aws&theme=dark" />
+</p>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,cs,cpp,firebase,git,github,githubactions,vscode,figma&theme=dark" />
 </p>
 
 <br/>
