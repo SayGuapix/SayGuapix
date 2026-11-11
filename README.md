@@ -32,7 +32,7 @@
 <img src="https://skillicons.dev/icons?i=py,fastapi,mongodb,mysql,postgres,docker&theme=dark" />
 </p>
 <p align="left">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=java,cs,cpp,firebase,git,github,githubactions,vscode,figma,claude&theme=dark" />
+<img src="assets/tech-tools.svg" alt="Java, C#, C++, Firebase, Git, GitHub, GitHub Actions, VS Code, Figma, Claude" />
 </p>
 
 <br/>
