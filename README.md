@@ -49,7 +49,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SayGuapix/SayGuapix/output/activity-bars-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SayGuapix/SayGuapix/output/activity-bars.svg" />
-  <img alt="Contributions per month and by day of the week" src="https://raw.githubusercontent.com/SayGuapix/SayGuapix/output/activity-bars-dark.svg" width="70%" />
+  <img alt="Contributions per month and by day of the week" src="https://raw.githubusercontent.com/SayGuapix/SayGuapix/output/activity-bars-dark.svg" width="90%" />
 </picture>
 
 </div>

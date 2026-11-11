@@ -103,9 +103,9 @@ def bucket(weeks):
 
 def bars(o, t, x0, y0, w, h, items, title):
     """Dibuja un panel de barras. items = [(etiqueta, sub_etiqueta, valor)]."""
-    o.append(f'<text x="{x0}" y="{y0}" font-size="12" font-weight="600" '
+    o.append(f'<text x="{x0}" y="{y0}" font-size="15" font-weight="600" '
              f'fill="{t["text"]}">{title}</text>')
-    top, base = y0 + 26, y0 + h - 30
+    top, base = y0 + 32, y0 + h - 40
     for k in range(4):  # líneas guía
         y = base - (base - top) * k / 3
         o.append(f'<line x1="{x0}" x2="{x0 + w}" y1="{y:.1f}" y2="{y:.1f}" '
@@ -122,18 +122,18 @@ def bars(o, t, x0, y0, w, h, items, title):
                  f'height="{max(bh, 0.01):.1f}" rx="3" fill="{color}">'
                  f'<title>{label} {sub}: {v} contributions</title></rect>')
         o.append(f'<text x="{cx:.1f}" y="{base - bh - 5:.1f}" text-anchor="middle" '
-                 f'font-size="10" fill="{t["text"] if v == peak else t["muted"]}">{v}</text>')
-        o.append(f'<text x="{cx:.1f}" y="{base + 14}" text-anchor="middle" '
-                 f'font-size="10" fill="{t["muted"]}">{label}</text>')
+                 f'font-size="13" fill="{t["text"] if v == peak else t["muted"]}">{v}</text>')
+        o.append(f'<text x="{cx:.1f}" y="{base + 18}" text-anchor="middle" '
+                 f'font-size="13" fill="{t["muted"]}">{label}</text>')
         if sub:
-            o.append(f'<text x="{cx:.1f}" y="{base + 26}" text-anchor="middle" '
-                     f'font-size="9" fill="{t["muted"]}" opacity="0.7">{sub}</text>')
+            o.append(f'<text x="{cx:.1f}" y="{base + 33}" text-anchor="middle" '
+                     f'font-size="11" fill="{t["muted"]}" opacity="0.7">{sub}</text>')
 
 
 def render(weeks, theme):
     t = THEMES[theme]
     months, weekday = bucket(weeks)
-    width, height = 860, 236
+    width, height = 760, 270
     o = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" '
          f'viewBox="0 0 {width} {height}" font-family="{FONT}">',
          f'<rect width="{width}" height="{height}" rx="4.5" fill="{t["bg"]}"/>']
@@ -142,12 +142,12 @@ def render(weeks, theme):
     for i, ((y, m), v) in enumerate(months):
         sub = str(y) if i == 0 or m == 1 else ""
         month_items.append((MONTHS[m - 1], sub, v))
-    bars(o, t, 24, 24, 520, 190, month_items, "Contributions per month")
+    bars(o, t, 20, 28, 440, 220, month_items, "Contributions per month")
     wd = "Sun Mon Tue Wed Thu Fri Sat".split()
-    bars(o, t, 584, 24, 252, 190, [(wd[i], "", weekday[i]) for i in range(7)],
+    bars(o, t, 504, 28, 236, 220, [(wd[i], "", weekday[i]) for i in range(7)],
          "By day of the week")
-    o.append(f'<line x1="564" x2="564" y1="16" y2="{height - 20}" stroke="{t["border"]}"/>')
-    o.append(f'<text x="{width - 14}" y="{height - 8}" text-anchor="end" font-size="9" '
+    o.append(f'<line x1="482" x2="482" y1="16" y2="{height - 24}" stroke="{t["border"]}"/>')
+    o.append(f'<text x="{width - 14}" y="{height - 8}" text-anchor="end" font-size="11" '
              f'fill="{t["muted"]}" opacity="0.7">Last 12 months · updated '
              f'{dt.date.today():%b %d, %Y}</text>')
     o.append("</svg>")
