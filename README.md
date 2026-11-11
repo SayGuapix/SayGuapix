@@ -62,36 +62,28 @@
 <p align="center"><sub>Full portfolio at <a href="https://santiago.vercel.app/projects">santiago.vercel.app/projects</a></sub></p>
 
 <table width="100%">
-<colgroup>
-<col style="width:25%">
-<col style="width:25%">
-<col style="width:25%">
-<col style="width:25%">
-</colgroup>
 <tr>
-<td colspan="2"><a href="https://santiago.vercel.app/projects"><img src="assets/Averag3.webp" width="100%" style="border-radius:10px"/></a></td>
-<td><a href="https://santiago.vercel.app/projects"><img src="assets/SmartParking.webp" width="100%" style="border-radius:10px"/></a></td>
-<td><a href="https://santiago.vercel.app/projects"><img src="assets/CNT-webapp.webp" width="100%" style="border-radius:10px"/></a></td>
+<td width="25%" align="center"><a href="https://santiago.vercel.app/projects"><img src="assets/Averag3.webp" width="100%" alt="Averag3" style="border-radius:10px"/></a></td>
+<td width="25%" align="center"><a href="https://santiago.vercel.app/projects"><img src="assets/CRM-webapp.webp" width="100%" alt="CRM-webapp" style="border-radius:10px"/></a></td>
+<td width="25%" align="center"><a href="https://github.com/SayGuapix/cabitemplex-launchpad"><img src="assets/Cabitemplex.webp" width="100%" alt="Cabitemplex" style="border-radius:10px"/></a></td>
+<td width="25%" align="center"><a href="https://santiago.vercel.app/projects"><img src="assets/RoadToPerfection.webp" width="100%" alt="RoadToPerfection" style="border-radius:10px"/></a></td>
 </tr>
 <tr>
-<td><a href="https://santiago.vercel.app/projects"><img src="assets/CRM-webapp.webp" width="100%" style="border-radius:10px"/></a></td>
-<td colspan="2"><a href="https://santiago.vercel.app/projects"><img src="assets/Diamond.webp" width="100%" style="border-radius:10px"/></a></td>
-<td><a href="https://github.com/SayGuapix/cabitemplex-launchpad"><img src="assets/Cabitemplex.webp" width="100%" style="border-radius:10px"/></a></td>
+<td width="25%" align="center"><a href="https://github.com/SayGuapix/storebright-ops"><img src="assets/StoreBright.webp" width="100%" alt="StoreBright" style="border-radius:10px"/></a></td>
+<td width="25%" align="center"><a href="https://santiago.vercel.app/projects"><img src="assets/WebSecurityTester.webp" width="100%" alt="WebSecurityTester" style="border-radius:10px"/></a></td>
+<td width="25%" align="center"><a href="https://github.com/SayGuapix/yodarby"><img src="assets/YoDarby.webp" width="100%" alt="YoDarby" style="border-radius:10px"/></a></td>
+<td width="25%" align="center"><a href="https://santiago.vercel.app/projects"><img src="assets/Diamond.webp" width="100%" alt="Diamond" style="border-radius:10px"/></a></td>
 </tr>
 <tr>
-<td><a href="https://santiago.vercel.app/projects"><img src="assets/RoadToPerfection.webp" width="100%" style="border-radius:10px"/></a></td>
-<td colspan="2"><a href="https://github.com/SayGuapix/storebright-ops"><img src="assets/StoreBright.webp" width="100%" style="border-radius:10px"/></a></td>
-<td><a href="https://github.com/SayGuapix/yodarby"><img src="assets/YoDarby.webp" width="100%" style="border-radius:10px"/></a></td>
+<td width="25%" align="center"><a href="https://santiago.vercel.app/projects"><img src="assets/SmartParking.webp" width="100%" alt="SmartParking" style="border-radius:10px"/></a></td>
+<td width="25%" align="center"><a href="https://santiago.vercel.app/projects"><img src="assets/CNT-webapp.webp" width="100%" alt="CNT-webapp" style="border-radius:10px"/></a></td>
+<td width="25%" align="center"><a href="https://github.com/SayGuapix/Amethyst"><img src="assets/Amethyst.webp" width="100%" alt="Amethyst" style="border-radius:10px"/></a></td>
+<td width="25%" align="center"><a href="https://github.com/SayGuapix/EmeraldCHAT"><img src="assets/EmeraldCHAT.webp" width="100%" alt="EmeraldCHAT" style="border-radius:10px"/></a></td>
 </tr>
 <tr>
-<td colspan="2"><a href="https://santiago.vercel.app/projects"><img src="assets/WebSecurityTester.webp" width="100%" style="border-radius:10px"/></a></td>
-<td><a href="https://santiago.vercel.app/projects"><img src="assets/ProyectoSonrisa.webp" width="100%" style="border-radius:10px"/></a></td>
-<td><a href="https://github.com/SayGuapix/GitGlow"><img src="assets/GitGlow.webp" width="100%" style="border-radius:10px"/></a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/SayGuapix/Amethyst"><img src="assets/Amethyst.webp" width="100%" style="border-radius:10px"/></a></td>
-<td colspan="2"><a href="https://github.com/SayGuapix/EmeraldCHAT"><img src="assets/EmeraldCHAT.webp" width="100%" style="border-radius:10px"/></a></td>
-<td><a href="https://santiago.vercel.app/projects"><img src="assets/FluffyNails.webp" width="100%" style="border-radius:10px"/></a></td>
+<td colspan="2" width="50%" align="center"><a href="https://santiago.vercel.app/projects"><img src="assets/ProyectoSonrisa.webp" width="100%" alt="ProyectoSonrisa" style="border-radius:10px"/></a></td>
+<td width="25%" align="center"><a href="https://github.com/SayGuapix/GitGlow"><img src="assets/GitGlow.webp" width="100%" alt="GitGlow" style="border-radius:10px"/></a></td>
+<td width="25%" align="center"><a href="https://santiago.vercel.app/projects"><img src="assets/FluffyNails.webp" width="100%" alt="FluffyNails" style="border-radius:10px"/></a></td>
 </tr>
 </table>
 
