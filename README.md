@@ -26,7 +26,7 @@
 <img src="assets/divider.svg" width="100%" />
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite,tauri,html,css&theme=dark" />
 </p>
 <p align="left">
 <img src="https://skillicons.dev/icons?i=py,fastapi,mongodb,mysql,postgres,docker&theme=dark" />
