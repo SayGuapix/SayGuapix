@@ -29,10 +29,10 @@
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite,html,css&theme=dark" />
 </p>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=py,fastapi,mongodb,mysql,postgres,docker,aws&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,fastapi,mongodb,mysql,postgres,docker&theme=dark" />
 </p>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,cs,cpp,firebase,git,github,githubactions,vscode,figma&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=java,cs,cpp,firebase,git,github,githubactions,vscode,figma,claude&theme=dark" />
 </p>
 
 <br/>
