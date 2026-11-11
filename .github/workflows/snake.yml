@@ -15,6 +15,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+
       - name: Generar SVGs de la serpiente
         uses: Platane/snk@v3
         with:
@@ -41,6 +44,11 @@ jobs:
               s = re.sub(r'viewBox="(\S+) (\S+) (\S+) (\S+)" width="\S+" height="\S+"', recortar, s, count=1)
               open(f, "w").write(s)
           EOF
+
+      - name: Generar gráficas de barras de contribuciones
+        run: python3 .github/scripts/contrib_graph.py ${{ github.repository_owner }} dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Publicar en la rama output
         uses: crazy-max/ghaction-github-pages@v4
