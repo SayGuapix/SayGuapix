@@ -91,7 +91,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SayGuapix&label=Profile%20views&color=ffffff&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=SayGuapix&label=Profile%20views&color=5a6370&labelColor=30363d&style=for-the-badge" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5a6370,100:30363d&height=100&section=footer" width="100%"/>
 
