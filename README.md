@@ -22,7 +22,7 @@
 
 <br/>
 
-## Tech Stack 🛠️
+## Tech Stack 
 <hr/>
 
 <p align="left">
@@ -37,7 +37,7 @@
 
 <br/>
 
-## GitHub stats 📊
+## GitHub stats 
 <hr/>
 
 <div align="center">
@@ -48,7 +48,7 @@
 
 <br/>
 
-## Featured Projects 🚀
+## Featured Projects 
 <hr/>
 
 <p align="center"><sub>Full portfolio at <a href="https://santiago.vercel.app/projects">santiago.vercel.app/projects</a></sub></p>
